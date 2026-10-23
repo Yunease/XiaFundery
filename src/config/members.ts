@@ -96,6 +96,22 @@ export const MEMBERS: Member[] = [
     links: {
       github: 'https://github.com/Lentilnoodleflags'
     },
+      {
+    name: 'HANE',
+    slug: 'hane',              // 用小写英文，不能有空格，比如 xiaoming
+    role: '成员 · 方向',
+    focus: '安卓开发',
+    bio: '哈捏大王万岁万岁万万岁',
+    avatar: '/img/avatars/your-name.svg',
+    skills: ['Android', 'Python'],
+    order: 30,                      // 数字越大越靠后，前面已用到 21，你填 30 即可
+    joinedDate: '2026-10-21',
+    demo: false,
+    links: {
+      github: 'https://github.com/Hane820',
+    },
+  },
+
   },
 ];
 
