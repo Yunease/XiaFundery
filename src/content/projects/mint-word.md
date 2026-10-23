@@ -5,7 +5,7 @@ type: "software"
 status: "released"
 featured: true
 summary: "基于 SM-2 间隔重复算法的跨平台单词学习桌面应用，内置多语种词库与 AI 辅助。"
-image: "/img/covers/mint-word.svg"
+image: "/img/covers/MintWord.png"
 tech: ["Tauri", "React", "TypeScript", "Rust", "SQLite", "Vite"]
 startDate: "2026-05-28"
 publishDate: "2026-05-28"

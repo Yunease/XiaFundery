@@ -2,7 +2,7 @@
   {
     "id": "vilstia",
     "source": "https://github.com/Yunease/vilstia",
-    "fetchedAt": "2026-10-23T11:57:04.074Z",
+    "fetchedAt": "2026-10-23T12:33:38.356Z",
     "totalCommits": 486,
     "members": [
       {
@@ -66,7 +66,7 @@
   {
     "id": "ghostcat",
     "source": "https://github.com/Yunease/ghostcat",
-    "fetchedAt": "2026-10-23T11:56:55.083Z",
+    "fetchedAt": "2026-10-23T12:33:31.732Z",
     "totalCommits": 2,
     "members": [
       {
@@ -114,23 +114,33 @@
   {
     "id": "mint-word",
     "source": "https://github.com/Yunease/MintWord",
-    "fetchedAt": "2026-10-23T11:56:57.076Z",
+    "fetchedAt": "2026-10-23T12:33:32.936Z",
     "totalCommits": 77,
     "members": [
       {
         "slug": "Lumina",
         "username": "Yunease",
         "commits": 41
+      },
+      {
+        "slug": "excnies",
+        "username": "excniesNIED",
+        "commits": 30
+      },
+      {
+        "slug": "aronnax",
+        "username": "aronnaxlin",
+        "commits": 6
       }
     ],
     "others": {
-      "commits": 36
+      "commits": 0
     }
   },
   {
     "id": "moss-vmina",
     "source": "https://github.com/Yunease/Moss-VMina",
-    "fetchedAt": "2026-10-23T11:56:58.088Z",
+    "fetchedAt": "2026-10-23T12:33:33.807Z",
     "totalCommits": 64,
     "members": [
       {
@@ -157,7 +167,7 @@
   {
     "id": "oc-docgen-skill",
     "source": "https://github.com/Yunease/OC-DocGen-Skill",
-    "fetchedAt": "2026-10-23T11:56:58.948Z",
+    "fetchedAt": "2026-10-23T12:33:34.627Z",
     "totalCommits": 2,
     "members": [
       {
@@ -228,7 +238,7 @@
   {
     "id": "time-capsule",
     "source": "https://github.com/Yunease/timeCapsule",
-    "fetchedAt": "2026-10-23T11:57:00.267Z",
+    "fetchedAt": "2026-10-23T12:33:35.443Z",
     "totalCommits": 3,
     "members": [
       {
@@ -266,17 +276,32 @@
   {
     "id": "xiafundery",
     "source": "https://github.com/Yunease/XiaFundery",
-    "fetchedAt": "2026-10-23T11:57:05.225Z",
-    "totalCommits": 7,
+    "fetchedAt": "2026-10-23T12:33:39.200Z",
+    "totalCommits": 13,
     "members": [
       {
         "slug": "Lumina",
         "username": "Yunease",
-        "commits": 6
+        "commits": 10
+      },
+      {
+        "slug": "aronnax",
+        "username": "aronnaxlin",
+        "commits": 1
+      },
+      {
+        "slug": "bian-dou-mian-qi-zi",
+        "username": "Lentilnoodleflags",
+        "commits": 1
+      },
+      {
+        "slug": "excnies",
+        "username": "excniesNIED",
+        "commits": 1
       }
     ],
     "others": {
-      "commits": 1
+      "commits": 0
     }
   }
 ]

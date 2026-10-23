@@ -89,7 +89,7 @@ export const MEMBERS: Member[] = [
     focus: '内容与叙事',
     bio: '爱的战士。',
     avatar: '/img/avatars/bian-dou-mian-qi-zi.svg',
-    skills: [],
+    skills: ['文案设计'],
     order: 21,
     joinedDate: '2026-10-21',
     demo: false,

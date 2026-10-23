@@ -5,7 +5,7 @@ type: "ai"
 status: "released"
 featured: false
 summary: "面向 OC 角色的自动化人设文档生成 Skill 与配套标注数据集。"
-image: "/img/covers/oc-docgen-skill.svg"
+image: "/img/covers/oc-docgen-skill.png"
 tech: ["Prompt Engineering", "Dataset", "Claude/Codex Skill"]
 startDate: "2026-03-30"
 publishDate: "2026-03-30"
